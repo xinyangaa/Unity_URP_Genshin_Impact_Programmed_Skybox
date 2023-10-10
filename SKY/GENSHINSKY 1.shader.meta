@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 001d87c218ffbab44b7bdb86809dbcd5
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _MoonTex: {instanceID: 0}
+  - _IrradianceMap: {instanceID: 0}
+  - _NoiseMap: {instanceID: 0}
+  - _StarDotMap: {instanceID: 0}
+  - StarColorLut: {instanceID: 0}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 5456 1
+  m_Shader: {fileID: 4800000, guid: 679b1c0c92a1387478906c8e129d7716, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BaseMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _IrradianceMap:
+        m_Texture: {fileID: 2800000, guid: a490c6bad1f27224aaa175ab8aff0121, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MoonTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _IrradianceMapG_maxAngleRange: 0.23376
+    - _IrradianceMapR_maxAngleRange: 0.432144
+    - _MoonMaskRadius: 5
+    - _MoonRadius: 3
+    - _Moon_color_intensity: 1.18529
+    - _SunAdditionIntensity: 0.2692
+    - _SunInnerBoundary: 0
+    - _SunOuterBoundary: 3.18228
+    - _SunRadius: 4.1
+    - _SunScattering: 1
+    - _disk_power_999: 450
+    - _mainColorMoonGatherFactor: 0.31277
+    - _mainColorSunGatherFactor: 1.9038167
+    - _sun_color_intensity: 1.0430399
+    - _sun_disk_power_999: 663.6162
+    m_Colors:
+    - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
+    - _MoonDirection: {r: -0.33274, g: -0.11934, b: 0.93544, a: 0}
+    - _MoonScatteringColor: {r: 1, g: 1, b: 1, a: 1}
+    - _Moon_color: {r: 0.90625006, g: 0.43018997, b: 0.11742998, a: 1}
+    - _SunAdditionColor: {r: 0.8470573, g: 0.8870599, b: 0.6721618, a: 1}
+    - _SunDirection: {r: -0.26102, g: 0.12177, b: -0.95762, a: 0}
+    - _downPartSkyColor: {r: 0.41176474, g: 0.7058824, b: 0.81568635, a: 1}
+    - _downPartSunColor: {r: 0.7568625, g: 0.9388238, b: 0.93255, a: 1}
+    - _sun_color: {r: 0.99372554, g: 0.96862787, b: 0.9388244, a: 1}
+    - _sun_color_Scat: {r: 0.90625006, g: 0.43018997, b: 0.11742998, a: 1}
+    - _sun_dir: {r: -0.035110082, g: -0.9968847, b: -0.07062728, a: 0}
+    - _upPartSkyColor: {r: 0.028234866, g: 0.45254892, b: 0.8078433, a: 1}
+    - _upPartSunColor: {r: 0.9403922, g: 0.86509836, b: 0.8180398, a: 1}
+  m_BuildTextureStacks: []
